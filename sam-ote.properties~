@@ -9,7 +9,7 @@ spring.profiles.active=ote
 #####
 ## CSP Specific configuration
 ##
-magentoservice.url={cipher}ff34ef838565ef1250b6cd1320b4b43e8fad972ddc1c9ea16bcdb65a94f517af8610ef2bd683c9bfd3578d10d2e6d6a846625ac1bbd24d4aa7d4876f3eac92c9
+magentoservice.url='{cipher}ff34ef838565ef1250b6cd1320b4b43e8fad972ddc1c9ea16bcdb65a94f517af8610ef2bd683c9bfd3578d10d2e6d6a846625ac1bbd24d4aa7d4876f3eac92c9'
 magentoservice.username=api
 magentoservice.password='{cipher}d273894bbbd7bce0104553900f3bb67eedc4cc2ff938799fe6ec9b7528965aca'
 magento.inbound.request.auth.username=magento
